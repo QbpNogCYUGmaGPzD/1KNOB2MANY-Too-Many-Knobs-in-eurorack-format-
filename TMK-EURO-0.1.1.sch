@@ -15490,7 +15490,7 @@ Marquardt</description>
 <part name="R2" library="adafruit" deviceset="R-US_" device="0207/7" value="3K3"/>
 <part name="U1" library="MusicThingModular" deviceset="THONKICONN" device="OLD" value="IN"/>
 <part name="S1" library="momentswitchREDlveewrergalmoer" deviceset="SPDT" device="PADS"/>
-<part name="C11" library="rcl" deviceset="C-EU" device="050-035X075" value="1uF"/>
+<part name="C11" library="adafruit" deviceset="C-US" device="050-075X075" value="1uF"/>
 <part name="VR13" library="MusicThingModular" deviceset="9MM_SNAP-IN_POT" device="_" value="250K"/>
 <part name="R14" library="adafruit" deviceset="R-US_" device="0207/7" value="100k"/>
 <part name="U6" library="MusicThingModular" deviceset="THONKICONN" device="OLD" value="IN"/>
@@ -16284,7 +16284,7 @@ Marquardt</description>
 <wire x1="203.2" y1="134.62" x2="210.82" y2="134.62" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$35" class="0">
+<net name="N$35" class="2">
 <segment>
 <pinref part="C9" gate="G$1" pin="2"/>
 <pinref part="U5" gate="G$1" pin="TIP"/>
