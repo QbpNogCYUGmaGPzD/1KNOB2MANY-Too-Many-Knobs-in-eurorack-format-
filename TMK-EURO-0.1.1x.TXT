@@ -1,228 +1,58 @@
-%
-M48
-M72
-T01C0.01200
-T02C0.01969
-T03C0.02362
-T04C0.02756
-T05C0.03200
-T06C0.03937
-T07C0.04331
-T08C0.05315
-T09C0.05512
-T10C0.06102
-T11C0.06299
-T12C0.08268
-T13C0.12598
-%
-T01
-X85000Y40000
-X90000Y40000
-X95000Y40000
-X85000Y20000
-X90000Y20000
-X95000Y20000
-X85000Y35000
-X90000Y35000
-X95000Y35000
-X85000Y25000
-X90000Y25000
-X95000Y25000
-T02
-X85000Y250000
-T03
-X80000Y255000
-X90000Y260000
-X95000Y240000
-X105000Y250000
-T04
-X110000Y296890
-X110000Y283110
-T05
-X230000Y300000
-X210000Y300000
-X257500Y175000
-X257500Y155000
-X40000Y85000
-X40000Y65000
-X100000Y200000
-X120000Y200000
-X360000Y160000
-X340000Y160000
-X120000Y215000
-X100000Y215000
-X150000Y215000
-X170000Y215000
-X60000Y171000
-X60000Y179000
-X370000Y235000
-X350000Y235000
-X115000Y185000
-X115000Y155000
-X130000Y230000
-X100000Y230000
-X170000Y230000
-X140000Y230000
-X210000Y230000
-X180000Y230000
-X250000Y230000
-X220000Y230000
-X80000Y65000
-X90000Y65000
-X90000Y95000
-X80000Y95000
-X100000Y65000
-X110000Y65000
-X100000Y95000
-X110000Y95000
-X25000Y180000
-X35000Y180000
-X35000Y205000
-X25000Y205000
-X240000Y120000
-X240000Y130000
-X210000Y130000
-X210000Y120000
-X240000Y140000
-X210000Y140000
-X177500Y120000
-X177500Y130000
-X147500Y130000
-X147500Y120000
-X177500Y140000
-X147500Y140000
-X25000Y60000
-X25000Y90000
-X205000Y100000
-X205000Y70000
-X192500Y142500
-X192500Y112500
-X175000Y40000
-X145000Y40000
-X375000Y250000
-X345000Y250000
-X212500Y170000
-X242500Y170000
-X80000Y130000
-X110000Y130000
-X140000Y110000
-X110000Y110000
-X200000Y210000
-X200000Y180000
-X212500Y200000
-X242500Y200000
-X80000Y195000
-X50000Y195000
-X50000Y210000
-X80000Y210000
-X215000Y100000
-X215000Y70000
-X212500Y185000
-X242500Y185000
-X100000Y270000
-X70000Y270000
-T06
-X25000Y300000
-X25000Y290000
-X35000Y300000
-X35000Y290000
-X45000Y300000
-X45000Y290000
-X55000Y300000
-X55000Y290000
-X65000Y300000
-X65000Y290000
-T07
-X307559Y20157
-X307559Y30000
-X307559Y39843
-X247559Y250157
-X247559Y260000
-X247559Y269843
-X387559Y107657
-X387559Y117500
-X387559Y127343
-X387559Y190157
-X387559Y200000
-X387559Y209843
-X387559Y275157
-X387559Y285000
-X387559Y294843
-X187559Y275157
-X187559Y285000
-X187559Y294843
-X67559Y20157
-X67559Y30000
-X67559Y39843
-X187559Y65157
-X187559Y75000
-X187559Y84843
-X67559Y235157
-X67559Y245000
-X67559Y254843
-X67559Y130157
-X67559Y140000
-X67559Y149843
-X187559Y170157
-X187559Y180000
-X187559Y189843
-T08
-X305512Y122500
-X305512Y205000
-X385512Y30000
-X305512Y290000
-X320512Y247500
-X320512Y80000
-X320512Y162500
-T09
-X130000Y250000
-T10
-X260945Y122500
-X293307Y122500
-X260945Y205000
-X293307Y205000
-X340945Y30000
-X373307Y30000
-X260945Y290000
-X293307Y290000
-X275945Y247500
-X308307Y247500
-X275945Y80000
-X308307Y80000
-X275945Y162500
-X308307Y162500
-T11
-X120000Y250000
-X140000Y250000
-T12
-X280000Y47717
-X280000Y12283
-X220000Y277717
-X220000Y242283
-X360000Y135217
-X360000Y99783
-X360000Y217717
-X360000Y182283
-X360000Y302717
-X360000Y267283
-X160000Y302717
-X160000Y267283
-X40000Y47717
-X40000Y12283
-X160000Y92717
-X160000Y57283
-X40000Y262717
-X40000Y227283
-X40000Y157717
-X40000Y122283
-X160000Y197717
-X160000Y162283
-T13
-X280000Y122500
-X280000Y205000
-X280000Y290000
-X360000Y30000
-X295000Y80000
-X295000Y162500
-X295000Y247500
-M30
+Partlist exported from C:/Users/HADES/Documents/eagle/TMK-EURO/1KNOB2MANY-Too-Many-Knobs-in-eurorack-format-/TMK-EURO-0.1.1x.sch at 27-9-2017 22:02
+
+Part Value         Device            Package         Description                                       DATA_SHEET                                                             MF                      MPN  OC_FARNELL OC_NEWARK
+C1   10uF          CPOL-USE2-5       E2-5            POLARIZED CAPACITOR, American symbol                                                                                                                                      
+C2   100nF         C-EU050-035X075   C050-035X075    CAPACITOR, European symbol                                                                                                                                                
+C3   100nF         C-EU050-035X075   C050-035X075    CAPACITOR, European symbol                                                                                                                                                
+C4   100nF         C-EU050-035X075   C050-035X075    CAPACITOR, European symbol                                                                                                                                                
+C5   100nF         C-EU050-035X075   C050-035X075    CAPACITOR, European symbol                                                                                                                                                
+C6   2.2uF         C-US050-030X075   C050-030X075    CAPACITOR, American symbol                                                                                                                                                
+C7   100uF         080               080_035         47 - 470uF                                                                                                                                                                
+C9   100nF         C-EU050-035X075   C050-035X075    CAPACITOR, European symbol                                                                                                                                                
+C10  100nF         C-EU050-035X075   C050-035X075    CAPACITOR, European symbol                                                                                                                                                
+C11  1uF           C-US050-075X075   C050-075X075    CAPACITOR, American symbol                                                                                                                                                
+D1   1N4148        SMALL_DIODEDO35-7 DO35-7          Small Signal Diode                                                                                                                                                        
+D3   1N4148        SMALL_DIODEDO35-7 DO35-7          Small Signal Diode                                                                                                                                                        
+D4   1N4148        SMALL_DIODEDO35-7 DO35-7          Small Signal Diode                                                                                                                                                        
+D5   1N4148        SMALL_DIODEDO35-7 DO35-7          Small Signal Diode                                                                                                                                                        
+D6   1N4148        SMALL_DIODEDO35-7 DO35-7          Small Signal Diode                                                                                                                                                        
+D7   1N5817        SMALL_DIODEDO35-7 DO35-7          Small Signal Diode                                                                                                                                                        
+IC1  TL082P        TL082P            DIL08           OP AMP                                            <a href="http://www.ti.com/lit/ds/symlink/tl084a.pdf"> Data sheet </a>                                                  
+LED1 oranger       LED3MM            LED3MM          LED                                                                                                                                                                       
+LED2 oranger       LED3MM            LED3MM          LED                                                                                                                                                                       
+OK1  4N35          4N35              DIL06           MOTOROLA OPTO COUPLER                                                                                                    FAIRCHILD SEMICONDUCTOR 4N35 1328375    72K9946  
+OK2  4N35          4N35              DIL06           MOTOROLA OPTO COUPLER                                                                                                    FAIRCHILD SEMICONDUCTOR 4N35 1328375    72K9946  
+R1   5K6           R-US_0207/7       0207/7          RESISTOR, American symbol                                                                                                                                                 
+R2   3K3           R-US_0207/7       0207/7          RESISTOR, American symbol                                                                                                                                                 
+R3   100K          R-US_0207/7       0207/7          RESISTOR, American symbol                                                                                                                                                 
+R4   470           R-US_0207/7       0207/7          RESISTOR, American symbol                                                                                                                                                 
+R5   100K          R-US_0207/7       0207/7          RESISTOR, American symbol                                                                                                                                                 
+R6   10K           R-US_0207/7       0207/7          RESISTOR, American symbol                                                                                                                                                 
+R7   1K            R-US_0207/7       0207/7          RESISTOR, American symbol                                                                                                                                                 
+R8   10K           R-US_0207/7       0207/7          RESISTOR, American symbol                                                                                                                                                 
+R9   3K3           R-US_0207/7       0207/7          RESISTOR, American symbol                                                                                                                                                 
+R10  5K6           R-US_0207/7       0207/7          RESISTOR, American symbol                                                                                                                                                 
+R11  10K           R-US_0207/7       0207/7          RESISTOR, American symbol                                                                                                                                                 
+R12  10K           R-US_0207/7       0207/7          RESISTOR, American symbol                                                                                                                                                 
+R13  47k           R-US_0207/7       0207/7          RESISTOR, American symbol                                                                                                                                                 
+R14  100k          R-US_0207/7       0207/7          RESISTOR, American symbol                                                                                                                                                 
+S1                 SPDTPADS          SPDT            TOGGLE SWITCH                                                                                                                                                             
+U1   IN            THONKICONNOLD     THONKICONN      3.5mm socket for Eurorack modular synths                                                                                                                                  
+U2   IN            THONKICONNOLD     THONKICONN      3.5mm socket for Eurorack modular synths                                                                                                                                  
+U3   IN            THONKICONNOLD     THONKICONN      3.5mm socket for Eurorack modular synths                                                                                                                                  
+U4   IN            THONKICONNOLD     THONKICONN      3.5mm socket for Eurorack modular synths                                                                                                                                  
+U5   IN            THONKICONNOLD     THONKICONN      3.5mm socket for Eurorack modular synths                                                                                                                                  
+U6   IN            THONKICONNOLD     THONKICONN      3.5mm socket for Eurorack modular synths                                                                                                                                  
+U7   THONKICONNOLD THONKICONNOLD     THONKICONN      3.5mm socket for Eurorack modular synths                                                                                                                                  
+VR1  100K          9MM_SNAP-IN_POT_  9MM_SNAP-IN_POT 9mm vertical snap-in pot, Alpha / Panasonic style                                                                                                                         
+VR2  500K          9MM_SNAP-IN_POT_  9MM_SNAP-IN_POT 9mm vertical snap-in pot, Alpha / Panasonic style                                                                                                                         
+VR3  1k            9MM_SNAP-IN_POT_  9MM_SNAP-IN_POT 9mm vertical snap-in pot, Alpha / Panasonic style                                                                                                                         
+VR7  250K          9MM_SNAP-IN_POT_  9MM_SNAP-IN_POT 9mm vertical snap-in pot, Alpha / Panasonic style                                                                                                                         
+VR8  50K           9MM_SNAP-IN_POT_  9MM_SNAP-IN_POT 9mm vertical snap-in pot, Alpha / Panasonic style                                                                                                                         
+VR9  10K           9MM_SNAP-IN_POT_  9MM_SNAP-IN_POT 9mm vertical snap-in pot, Alpha / Panasonic style                                                                                                                         
+VR10 250K          9MM_SNAP-IN_POT_  9MM_SNAP-IN_POT 9mm vertical snap-in pot, Alpha / Panasonic style                                                                                                                         
+VR12 500k          9MM_SNAP-IN_POT_  9MM_SNAP-IN_POT 9mm vertical snap-in pot, Alpha / Panasonic style                                                                                                                         
+VR13 250K          9MM_SNAP-IN_POT_  9MM_SNAP-IN_POT 9mm vertical snap-in pot, Alpha / Panasonic style                                                                                                                         
+VR14 10K           9MM_SNAP-IN_POT_  9MM_SNAP-IN_POT 9mm vertical snap-in pot, Alpha / Panasonic style                                                                                                                         
+VR16 500K          9MM_SNAP-IN_POT_  9MM_SNAP-IN_POT 9mm vertical snap-in pot, Alpha / Panasonic style                                                                                                                         
+X1   057-010-1     057-010-1         057-010-1       CONNECTOR                                                                                                                                             unknown    unknown  
