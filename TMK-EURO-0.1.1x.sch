@@ -15714,11 +15714,8 @@ straight</description>
 <wire x1="198.12" y1="116.84" x2="208.28" y2="116.84" width="0.1524" layer="91"/>
 <junction x="208.28" y="116.84"/>
 <wire x1="208.28" y1="116.84" x2="208.28" y2="132.08" width="0.1524" layer="91"/>
-<wire x1="208.28" y1="132.08" x2="246.38" y2="132.08" width="0.1524" layer="91"/>
-<wire x1="246.38" y1="132.08" x2="266.7" y2="132.08" width="0.1524" layer="91"/>
-<wire x1="266.7" y1="132.08" x2="271.78" y2="132.08" width="0.1524" layer="91"/>
 <pinref part="R13" gate="G$1" pin="2"/>
-<wire x1="271.78" y1="132.08" x2="241.3" y2="132.08" width="0.1524" layer="91"/>
+<wire x1="208.28" y1="132.08" x2="241.3" y2="132.08" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$14" class="0">
@@ -15878,13 +15875,6 @@ straight</description>
 <wire x1="251.46" y1="167.64" x2="259.08" y2="167.64" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$17" class="0">
-<segment>
-<pinref part="R13" gate="G$1" pin="1"/>
-<pinref part="VR12" gate="G$1" pin="E"/>
-<wire x1="251.46" y1="132.08" x2="259.08" y2="132.08" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="N$26" class="2">
 <segment>
 <pinref part="IC1" gate="A" pin="+IN"/>
@@ -15897,20 +15887,16 @@ straight</description>
 <wire x1="73.66" y1="116.84" x2="78.74" y2="116.84" width="0.1524" layer="91"/>
 </segment>
 </net>
+<net name="N$4" class="0">
+<segment>
+<pinref part="R13" gate="G$1" pin="1"/>
+<pinref part="VR12" gate="G$1" pin="E"/>
+<wire x1="251.46" y1="132.08" x2="259.08" y2="132.08" width="0.1524" layer="91"/>
+</segment>
+</net>
 </nets>
 </sheet>
 </sheets>
-<errors>
-<approved hash="101,1,200.66,-7.62,X1-1,S,,,,"/>
-<approved hash="101,1,228.6,-7.62,X1-2,S,,,,"/>
-<approved hash="104,1,274.32,25.4,IC1P,V+,VR,,,"/>
-<approved hash="104,1,274.32,10.16,IC1P,V-,GND,,,"/>
-<approved hash="106,1,-45.72,165.1,N$1,,,,,"/>
-<approved hash="106,1,330.2,86.36,N$24,,,,,"/>
-<approved hash="106,1,139.7,66.04,N$34,,,,,"/>
-<approved hash="108,1,231.14,134.62,OUTPUT2,,,,,"/>
-<approved hash="113,1,144.78,60.0795,S1,,,,,"/>
-</errors>
 </schematic>
 </drawing>
 </eagle>
