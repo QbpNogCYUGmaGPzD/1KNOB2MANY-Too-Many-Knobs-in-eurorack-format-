@@ -9929,6 +9929,8 @@ straight</description>
 <text x="345.44" y="76.2" size="1.778" layer="97">output stage 3 final</text>
 <text x="-35.56" y="127" size="1.778" layer="95">buffer in</text>
 <text x="340.36" y="99.06" size="1.778" layer="95">buffer out</text>
+<text x="-50.8" y="121.92" size="1.778" layer="91">10k!</text>
+<text x="292.1" y="91.44" size="1.778" layer="91">10k!</text>
 </plain>
 <instances>
 <instance part="IC1" gate="A" x="91.44" y="114.3"/>
