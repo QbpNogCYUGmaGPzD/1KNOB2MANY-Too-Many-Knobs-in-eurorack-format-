@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="8.3.2">
+<eagle version="8.2.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
-<setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
@@ -9929,8 +9928,10 @@ straight</description>
 <text x="345.44" y="76.2" size="1.778" layer="97">output stage 3 final</text>
 <text x="-35.56" y="127" size="1.778" layer="95">buffer in</text>
 <text x="340.36" y="99.06" size="1.778" layer="95">buffer out</text>
-<text x="-50.8" y="121.92" size="1.778" layer="91">10k!</text>
-<text x="292.1" y="91.44" size="1.778" layer="91">10k!</text>
+<text x="-48.26" y="116.84" size="1.778" layer="91">10k!</text>
+<text x="322.58" y="76.2" size="1.778" layer="91">1k!</text>
+<text x="307.34" y="-40.64" size="1.778" layer="91">Is idt zo?</text>
+<text x="320.04" y="-17.78" size="1.778" layer="91">Bypass!</text>
 </plain>
 <instances>
 <instance part="IC1" gate="A" x="91.44" y="114.3"/>
